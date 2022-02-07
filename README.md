@@ -41,6 +41,7 @@ history of working in the information technology and services industry
 - Involved in providing creative  UI design for the given requirements
 - Experienced in working on  Mobile friendly and responsive layouts
 
+---
 
 ### Arogya Life Systems— Software Engineer
 ### Period/Location - Sep 2017 - Sep 2021  Rasavinthoddam Road,
@@ -61,9 +62,10 @@ history of working in the information technology and services industry
 - Involved in code review for peers & Junior resources.
 - Involved in presenting a demo on new features to the client
 
+---
+
 ### Arima Technologies— Associate Software Engineer
 ### March 2017 -  August 2017 
-
 
 ### Responsibilities
 - Involved in  UI designing  for the given requirement
