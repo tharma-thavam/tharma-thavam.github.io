@@ -1,4 +1,6 @@
-I am a frontend engineer with an experience of over 4+ years. I have hands on experience working with web frameworks and technologies. I have extensively worked on react and typescript for 3 years.
+4+ Years of Experienced as a Software Developer with a demonstrated
+history of working in the information technology and services industry
+
 ---
 
 ## Skills
@@ -7,18 +9,29 @@ I am a frontend engineer with an experience of over 4+ years. I have hands on ex
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html" width="40" height="40">
   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="40" height="40">
   <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='30' width='auto' alt="js">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40"/>
-   <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.subpng.com%2Fpng-qndhfg%2F&psig=AOvVaw0RgwgaAP9tIrdBJ5KFuCm_&ust=1644313695820000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKiYoIOo7fUCFQAAAAAdAAAAABAO" alt="react" width="auto" height="40"/>
-   <img src="https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.stickpng.com%2Fimg%2Ficons-logos-emojis%2Ftech-companies%2Fredux-logo&psig=AOvVaw0cj0awaAIA5ZolvLqS7u1H&ust=1644313636923000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOjMleyn7fUCFQAAAAAdAAAAABAJ" alt="angular" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40"/>
 </p>
+
+---
+
+### The highlight of Qualification & Experience
+
+* Experience in ReactJS workflow with Redux
+* Excellent skill in HTML, CSS
+* Familiarity  with Bootstrap Framework
+* Expertise in the Web app, Progressive web app, and Android app development
+* Experience in designing a new application for given requirements
+* In-depth knowledge to make improvements and additions to existing systems
+* Expertize in Hospital and queue management systems, Public Sector domain
+* Familiar with code versioning tool
 
 ---
 
 ## Experience
 
 ### EFutures Private Limited— Software Engineer
-## Period/Location - Sep 2021 -Present   
-## Fairfield Gardens, Borella, Colombo 8
+### Period/Location - Sep 2021 -Present   
+### Fairfield Gardens, Borella, Colombo 8
 
 ### Responsibilities
 
@@ -30,9 +43,9 @@ I am a frontend engineer with an experience of over 4+ years. I have hands on ex
 
 
 ### Arogya Life Systems— Software Engineer
-## Period/Location - Sep 2017 - Sep 2021  Rasavinthoddam Road,
-## Jaffna, Sri Lanka & W.A.Silva Mawatha,
-## Colombo-06
+### Period/Location - Sep 2017 - Sep 2021  Rasavinthoddam Road,
+### Jaffna, Sri Lanka & W.A.Silva Mawatha,
+### Colombo-06
 
 ### Responsibilities
 - Experience in attending  requirement meetings with project stakeholders
@@ -49,7 +62,7 @@ I am a frontend engineer with an experience of over 4+ years. I have hands on ex
 - Involved in presenting a demo on new features to the client
 
 ### Arima Technologies— Associate Software Engineer
-## March 2017 -  August 2017 
+### March 2017 -  August 2017 
 
 
 ### Responsibilities
