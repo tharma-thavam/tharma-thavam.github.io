@@ -8,17 +8,31 @@ I am a frontend engineer with an experience of over 4+ years. I have hands on ex
   <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="40" height="40">
   <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='30' width='auto' alt="js">
    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40"/>
-   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
+   <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.subpng.com%2Fpng-qndhfg%2F&psig=AOvVaw0RgwgaAP9tIrdBJ5KFuCm_&ust=1644313695820000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKiYoIOo7fUCFQAAAAAdAAAAABAO" alt="react" width="auto" height="40"/>
+   <img src="https://www.google.com/url?sa=i&url=http%3A%2F%2Fwww.stickpng.com%2Fimg%2Ficons-logos-emojis%2Ftech-companies%2Fredux-logo&psig=AOvVaw0cj0awaAIA5ZolvLqS7u1H&ust=1644313636923000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCOjMleyn7fUCFQAAAAAdAAAAABAJ" alt="angular" width="40" height="40"/>
 </p>
 
 ---
 
 ## Experience
 
+### EFutures Private Limited— Software Engineer
+## Period/Location - Sep 2021 -Present   
+## Fairfield Gardens, Borella, Colombo 8
+
+### Responsibilities
+
+- Experience in attending  requirement meetings with project clint
+- Responsible for requirements capture, design, coding
+- Involved to implement R&D work for new requirements. 
+- Involved in providing creative  UI design for the given requirements
+- Experienced in working on  Mobile friendly and responsive layouts
+
+
 ### Arogya Life Systems— Software Engineer
-### Period/Location - Sep 2017 - Sep 2021  Rasavinthoddam Road,
-### Jaffna, Sri Lanka & W.A.Silva Mawatha,
-### Colombo-06
+## Period/Location - Sep 2017 - Sep 2021  Rasavinthoddam Road,
+## Jaffna, Sri Lanka & W.A.Silva Mawatha,
+## Colombo-06
 
 ### Responsibilities
 - Experience in attending  requirement meetings with project stakeholders
@@ -33,6 +47,18 @@ I am a frontend engineer with an experience of over 4+ years. I have hands on ex
 - Experience handling multiple projects and handling resources
 - Involved in code review for peers & Junior resources.
 - Involved in presenting a demo on new features to the client
+
+### Arima Technologies— Associate Software Engineer
+## March 2017 -  August 2017 
+
+
+### Responsibilities
+- Involved in  UI designing  for the given requirement
+- Involved in creating mobile-friendly and responsive layouts
+- Familiar with CSS style and Bootstrap framework
+- Involved in doing R&D work to find solutions to the given problems. 
+- Experience in doing the development and Maintain the frontend functionality
+- Involved in the requirements gathering discussion and document preparation
 
 ---
 
