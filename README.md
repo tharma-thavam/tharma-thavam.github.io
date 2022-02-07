@@ -21,6 +21,7 @@ history of working in the information technology and services industry
    <img src="/icons/bitbucket.png" alt="bitbucket" width="auto" height="40"/>
   <img src="/icons/postman.png" alt="postman" width="auto" height="40"/>
   <img src="/icons/github.png" alt="github" width="auto" height="40"/>
+   <img src="/icons/git.png" alt="git" width="auto" height="40"/>
 </p>
 
 ---
