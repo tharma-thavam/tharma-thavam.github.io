@@ -6,10 +6,29 @@ history of working in the information technology and services industry
 ## Skills
 
 <p align='left'>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html" width="40" height="40">
-  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="40" height="40">
-  <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='30' width='auto' alt="js">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40"/>
+   <img src="/icons/html.png" alt="html" width="auto" height="40"/>
+  <img src="/icons/css.png" alt="css" width="auto" height="40"/>
+  <img src="/icons/react-js.png" alt="react" width="auto" height="40"/>
+  <img src="/icons/redux.png" alt="redux" width="auto" height="40"/>
+  <img src="/icons/vue-js.png" alt="vue" width="auto" height="40"/>
+  <img src="/icons/js.png" alt="js" width="auto" height="40"/>
+</p>
+
+---
+## Tools
+
+<p align='left'>
+   <img src="/icons/bitbucket.png" alt="bitbucket" width="auto" height="40"/>
+  <img src="/icons/postman.png" alt="postman" width="auto" height="40"/>
+  <img src="/icons/github.png" alt="github" width="auto" height="40"/>
+</p>
+
+---
+
+## IDE
+
+<p align='left'>
+   <img src="/icons/vs.png" alt="vs" width="auto" height="40"/>
 </p>
 
 ---
