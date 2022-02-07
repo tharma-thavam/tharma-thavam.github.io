@@ -1,7 +1,4 @@
-## Portfolio
-
-I am a frontend engineer with an experience of over 5 years. I have hands on experienceworking with web frameworks and technologies. I have extensively worked on react and typescript for 3 years.
-
+I am a frontend engineer with an experience of over 4+ years. I have hands on experience working with web frameworks and technologies. I have extensively worked on react and typescript for 3 years.
 ---
 
 ## Skills
@@ -18,32 +15,36 @@ I am a frontend engineer with an experience of over 5 years. I have hands on exp
 
 ## Experience
 
-### **FRONTEND DEVELOPER**
-### MIRO
+### Arogya Life Systems— Software Engineer
+### Period/Location - Sep 2017 - Sep 2021  Rasavinthoddam Road,
+### Jaffna, Sri Lanka & W.A.Silva Mawatha,
+### Colombo-06
 
-Working with meetings and workshops team to provide best experience to faciltators and participants while running meetings . I worked on features like creating isolated environment for participants during meeting, providing them limited tools to collaborate and created navigation panel for facilitators to move participants to different slides
-
-### **FRONTEND DEVELOPER**
-### Booking.com
-
-Worked with packages team to build mobile website using React, typsecript and graphql. Developerd checkout process for package bookings. Migrated the old code in perl to react for desktop website.
-
-### **SOFTWARE DEVELOPER**
-### NAGARRO PVT, LTD
-
-Worked on java , hybris framework and promotion engine. Created registration process, order hostory for amway. Worked on emil notifications service for customers
+### Responsibilities
+- Experience in attending  requirement meetings with project stakeholders
+- Responsible for requirements capture, design, coding & unit testing
+- Involved in doing R&D work to implement new requirements. 
+- Involved in providing creative  UI design for the given requirements
+- Experienced in working on  Mobile friendly and responsive layouts
+- Involved in participating in a brainstorming session for the given problem and providing solutions
+- Experience in addressing issues and implementing enhancement activity during the maintenance phase.
+- Technical design and documentation of new applications and requirements
+- Training new resources on logical thinking, coding standards, and guiding on React, Redux & CSS Styles concepts.
+- Experience handling multiple projects and handling resources
+- Involved in code review for peers & Junior resources.
+- Involved in presenting a demo on new features to the client
 
 ---
 
 ## Education
 
-### **GURU NANAK DEV UNIVERSITY**
-### BTech Computer Science (2012- 2016)
-GPA 8.75
+### **Cardiff Metropolitan University— BSc (Hons) Software Engineering**
+May 2018 - May 2019
+
+### **Sri Lanka Institute of Advanced Technological Education (SLIATE), Location — Higher National Diploma in Information Technology**
+Feb 2015 - Aug 2017 
+
+### **Jaffna Hindu Ladies' College— Advanced Level**
+2010 - 2012
 
 ---
-
-### INTERESTS
-Apart from being a web developer, I do content creation. I make videos related to frontend and general tech.
-
-I enjoy being outdoors, so i go for run everyday. I love travelling to different countries and explore different cultures. When i am inside , i play guitar and sing in my free time.
